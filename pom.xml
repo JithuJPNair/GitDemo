@@ -62,7 +62,7 @@
   
   <profiles>
   	<profile>
-  	<id>Regression</id>
+  	<id>Regression Test</id>
   		<build>
   			<pluginManagement>
   				<plugins>
